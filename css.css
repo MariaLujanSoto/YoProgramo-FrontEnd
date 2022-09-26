@@ -1,0 +1,25 @@
+
+
+.navbar{
+    background-color: black;
+}
+
+.ingresar{
+    background-color: rgb(46, 241, 46);
+    border-radius: 10px;
+}
+
+.cardsC{
+    text-align: center;
+    background:linear-gradient(to right,rgb(245, 131, 66),wheat);
+    
+}
+
+.git-link{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
